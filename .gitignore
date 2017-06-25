@@ -1,5 +1,7 @@
-/.idea/
+.idea/
 
-/_site/
+_site/
 
-/node_modules/
+node_modules/
+
+**/.DS_Store
